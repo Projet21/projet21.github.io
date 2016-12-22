@@ -6,6 +6,6 @@ To be updated
 
 ## News
 
-###Creation of the github page
+### Creation of the github page
 2016/12/2016
 
