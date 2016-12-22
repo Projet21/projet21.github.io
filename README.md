@@ -1,5 +1,5 @@
-#Projet 21 Board
+# Projet 21 Board
 
-##Links
-
-##News
+## Links
+ 
+## News
